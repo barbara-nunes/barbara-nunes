@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, eu sou a Bárbara. Estou iniciando os estudos sobre programação
+I’m currently learning HTML, CSS e JavaScript
+I’m looking for help with programação
 
 <!--
 **barbara-nunes/barbara-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
