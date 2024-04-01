@@ -13,7 +13,7 @@ Cursando tecnólogo em análise e desenvolvimento de sistemas. Sou desenvolvedor
 ## 📊 Estatísticas do GitHub 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=barbara-nunes&hide=stars&show_icons=true&theme=transparent&locale=pt-br)
 
-![Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=barbara-nunes&layout=pie&locale=pt-br)
+
 
 
 <!--
