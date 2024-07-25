@@ -5,7 +5,7 @@ Cursando tecnólogo em análise e desenvolvimento de sistemas. Sou desenvolvedor
 
 ## 🚀 Conhecimentos 
 [![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML) [![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=css&logoColor=%231572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)](https://reactjs.org/)
-(https://img.shields.io/badge/uipath-000?style=for-the-badge&logo=uipath)]
+[![UIPath](https://img.shields.io/badge/uipath-000?style=for-the-badge&logo=uipath)](https://www.uipath.com/pt) 
 
 ## 📬 Entre em contato 
 
